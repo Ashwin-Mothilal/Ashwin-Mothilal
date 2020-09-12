@@ -2,22 +2,37 @@
 
 ![Ashwin Mothilal Header](https://i.imgur.com/kGSWZ9P.png)
 
-### I'm a Developer and Tech enthusiast 
+### I'm a Developer, Tech enthusiast and love developing mobile applications 
 
-<br>
-<br>
+#### I have acquired skills on 
+- JavaScript
+- CSS & SCSS
+- React & React Native
+- Fastlane 
+- AppCenter
+- InVision Studio, Zeplin & Figma
+- Samsung KNOX Standard SDK (MDM App)
+- TFS, Git & BitBucket
+- Integration of React Native app as an SDK
+- C++ & Java
+- Animations & Gestures
+- Azure pipelines
+- Android Studio & Xcode
+- Slack - Incoming Webhooks integration
+- JIRA
+- Firebase - Cloud Messaging, Dynamic Linking & Crashlytics
 
-- 🔭 I’m currently working on Shimmer for React Native platform
-- 🌱 I’m currently learning anything new related to React & React Native
-- 💬 Ask me about anything on React Native
 
 ### Connect with me
 
-[<img align="left" alt="AshwinMothilal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="red"/>][twitter]
-[<img align="left" alt="AshwinMothilal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AshwinMothilal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AshwinMothilal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.7.0/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="AshwinMothilal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.7.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AshwinMothilal | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/dev-dot-to.svg" />][devto]
+[<img align="left" alt="AshwinMothilal | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][sot]
+[<img align="left" alt="AshwinMothilal | NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/npm.svg" />][npm]
 
 [twitter]: https://twitter.com/Ashwin_Mothilal
-[instagram]: https://www.instagram.com/ashwinmothilal/
 [linkedin]: https://www.linkedin.com/in/ashwinmothilal/
 [devto]: https://dev.to/ashwin_mothilal
+[sot]: https://stackoverflow.com/users/5591671/ashwin-mothilal
+[npm]: https://www.npmjs.com/package/react-native-js-shimmer-placeholder
