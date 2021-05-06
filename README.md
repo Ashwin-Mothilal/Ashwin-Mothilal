@@ -5,7 +5,7 @@
 ### I'm a Developer, Tech enthusiast and love developing mobile applications 
 
 #### I have acquired skills on 
-- JavaScript
+- JavaScript & TypeScript
 - CSS & SCSS
 - React & React Native
 - Fastlane 
