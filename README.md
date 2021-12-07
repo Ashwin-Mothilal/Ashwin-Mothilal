@@ -14,7 +14,7 @@
 - Samsung KNOX Standard SDK (MDM App)
 - TFS, Git & BitBucket
 - Integration of React Native app as an SDK
-- C++ & Java
+- Java & C# .NET
 - Animations & Gestures
 - Azure pipelines
 - Android Studio & Xcode
