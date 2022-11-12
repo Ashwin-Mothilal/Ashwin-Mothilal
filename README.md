@@ -1,7 +1,5 @@
 ### Hi there, I'm Ashwin Mothilal 👋
 
-![Ashwin Mothilal Header](https://i.imgur.com/kGSWZ9P.png)
-
 ### I'm a Developer, Tech enthusiast and love developing mobile applications 
 
 #### I have acquired skills on 
