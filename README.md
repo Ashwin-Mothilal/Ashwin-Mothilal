@@ -1,16 +1,22 @@
 ### Hi there, I'm Ashwin Mothilal 👋
 
-### I'm a Developer, Tech enthusiast and love developing mobile applications 
+### I'm a Senior Developer, Tech enthusiast and an UI person
 
 #### I have acquired skills on 
-- JavaScript & TypeScript
-- CSS & SCSS
+- JavaScript, TypeScript
+- CSS, SCSS, Logical CSS, CSS Modules
 - React & React Native
-- Fastlane 
-- AppCenter
+- Android & iOS deployment, Fastlane, AppCenter
 - InVision Studio, Zeplin & Figma
+- Webpack, Gulp, Babel
+- Jest, React Testing Library
+- Unit testing and Visual Testing
 - Samsung KNOX Standard SDK (MDM App)
+- Redux
+- Native Android Development
 - TFS, Git & BitBucket
+- Storybook Integration
+- Web Accessibility
 - Integration of React Native app as an SDK
 - Java & C# .NET
 - Animations & Gestures
