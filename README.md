@@ -1,30 +1,40 @@
-### Hi there, I'm Ashwin Mothilal 👋
+## Hi there, I'm Ashwin Mothilal 👋
 
-### I'm a Senior Developer, Tech enthusiast and an UI person
+### Lead Developer, UI Architect.
 
 #### I have acquired skills on 
-- JavaScript, TypeScript
-- CSS, SCSS, Logical CSS, CSS Modules
-- React & React Native
-- Android & iOS deployment, Fastlane, AppCenter
-- InVision Studio, Zeplin & Figma
-- Webpack, Gulp, Babel
-- Jest, React Testing Library
-- Unit testing and Visual Testing
-- Samsung KNOX Standard SDK (MDM App)
-- Redux
-- Native Android Development
-- TFS, Git & BitBucket
-- Storybook Integration
-- Web Accessibility
-- Integration of React Native app as an SDK
-- Java & C# .NET
-- Animations & Gestures
-- Azure pipelines
-- Android Studio & Xcode
-- Slack - Incoming Webhooks integration
-- JIRA
-- Firebase - Cloud Messaging, Dynamic Linking & Crashlytics
+
+**Frontend Development:**
+
+- **Languages & Styling**: HTML, CSS, SCSS, SASS, JavaScript, TypeScript
+- **Frameworks & Libraries**: React, React Native
+- **Tooling**: Webpack, Babel, Gulp, Storybook, Linting
+- **Testing**: Jest, Unit Testing, Visual Testing, End to End Testing
+- **Accessibility**: Web Accessibility
+
+**Mobile Development:**
+
+- **Platforms**: Android, iOS
+- **Deployment**: Fastlane, Mobile Deployment
+
+**Backend & Infrastructure:**
+
+- **Languages & Frameworks**: C# & .Net, Python, SQL
+- **Cloud Providers**: Firebase, Azure, AWS, GCP
+- **Cloud Services**: Lambda, API Gateway, SES, BigQuery
+- **Data & Analytics**: Looker Studio
+- **Architectural Patterns**: Micro Services, API Development
+
+**DevOps & Tooling:**
+
+- **Version Control**: Git
+- **CI/CD**: Azure CI/CD Pipelines
+- **Collaboration**: Jira, Confluence
+
+**Other Skills:**
+
+Figma, Animations, Gestures, SDK Integration, Code Quality, Critical Code Reviews, Internationalization, Localization, Documentation
+
 
 
 ### Connect with me
